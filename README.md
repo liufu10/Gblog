@@ -66,13 +66,6 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-#### 打赏作者
-
-<p align="center" id="donate">
-  <img width="120" src="https://images.gitee.com/uploads/images/2020/0618/095618_60414df6_1658323.jpeg">
-  <img width="120" src="https://images.gitee.com/uploads/images/2020/0618/095618_72307c44_1658323.png">
-</p>
-
 
 #### User case（欢迎大家提供使用案例）
 
